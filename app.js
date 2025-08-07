@@ -20,7 +20,7 @@ app.use('/api/n1/resource',resourecRoutes);
 
 // Rest Api  
 app.get('/',(req,res)=>{
-  res.send("<h1>Welecome to ResQlink </h1>")
+  res.send("<h1>Welecome to ReliefHub</h1>")
 })
 
 export default app;
