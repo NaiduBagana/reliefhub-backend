@@ -27,10 +27,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NeerajGupta4820/ResQlink-backend.git"
+    "url": "git+https://github.com/NaiduBagana/reliefhub-backend.git"
   },
   "bugs": {
-    "url": "https://github.com/NeerajGupta4820/ResQlink-backend/issues"
+    "url": "https://github.com/NaiduBagana/reliefhub-backend/issues"
   },
-  "homepage": "https://github.com/NeerajGupta4820/ResQlink-backend#readme"
+  "homepage": "https://github.com/NaiduBagana/reliefhub-backend#readme"
 }
